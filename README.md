@@ -1,18 +1,19 @@
 # Restaurant Order Analysis
 
-### Project Brief
-
 ### Business Task
 Analyze order data to identify the most and least popular menu items and types of cuisine.
 
 ### Data Set
 - The dataset consists of raw MySQL and CSV files provided by [Maven Analytics](https://mavenanalytics.io/data-playground?pageSize=10).
 
+### Project Goals
+The goal of this project is to analyze a quarter's worth of orders from a fictitious restaurant specializing in international cuisine. The analysis will encompass the date and time of each order, the items ordered, and additional details on the type, name, and price of each item. Through this exploration, we aim to gain insights into customer preferences, peak ordering times, and the performance of various menu items.
+
 ### Project Objective
-1.Explore the items table:
+1. Explore the items table:
   - To understand the items table by finding the number of rows in the table, the least and most expensive items, and the item prices within each category.
 
-2.Explore the orders table:
+2. Explore the orders table:
   - To understand the orders table by finding the date range, the number of items within each order, and the orders with the highest number of items.
 3. Analyze customer behavior:
   - To combine the items and orders tables, find the least and most ordered categories, and dive into the details of the highest spend orders.
