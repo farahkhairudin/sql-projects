@@ -6,7 +6,7 @@
 Analyze order data to identify the most and least popular menu items and types of cuisine.
 
 ### Data Set
-- The dataset consists of raw MySQL and CSV files provided by [Maven Analytics]([https://ourworldindata.org/covid-deaths](https://mavenanalytics.io/data-playground?pageSize=10)).
+- The dataset consists of raw MySQL and CSV files provided by [Maven Analytics]([(https://mavenanalytics.io/data-playground?pageSize=10)]).
 
 ### Project Objective
 1.Explore the items table:
@@ -15,12 +15,6 @@ Analyze order data to identify the most and least popular menu items and types o
   - To understand the orders table by finding the date range, the number of items within each order, and the orders with the highest number of items.
 3. Analyze customer behavior:
   - To combine the items and orders tables, find the least and most ordered categories, and dive into the details of the highest spend orders.
-  - 
-### Recommended Analysis
-1. What were the least and most ordered items? What categories were they in?
-2. What do the highest spend orders look like? Which items did they buy and how much did they spend?
-3. Were there certain times that had more or less orders?
-4. Which cuisines should we focus on developing more menu items for based on the data?
 
 ### Key Insights
 - The most popular item on the menu is the hamburger, which belongs to the delicious American food category. Meanwhile, among the appetizing Mexican food category, the least ordered item is Chicken Tacos.
