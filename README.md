@@ -11,6 +11,7 @@ Analyze order data to identify the most and least popular menu items and types o
 ### Project Objective
 1.Explore the items table:
   - To understand the items table by finding the number of rows in the table, the least and most expensive items, and the item prices within each category.
+
 2.Explore the orders table:
   - To understand the orders table by finding the date range, the number of items within each order, and the orders with the highest number of items.
 3. Analyze customer behavior:
