@@ -6,7 +6,7 @@
 Analyze order data to identify the most and least popular menu items and types of cuisine.
 
 ### Data Set
-- The dataset consists of raw MySQL and CSV files provided by [Maven Analytics]([(https://mavenanalytics.io/data-playground?pageSize=10)]).
+- The dataset consists of raw MySQL and CSV files provided by [Maven Analytics](https://mavenanalytics.io/data-playground?pageSize=10).
 
 ### Project Objective
 1.Explore the items table:
